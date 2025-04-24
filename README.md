@@ -12,8 +12,8 @@
 
 - **Block-Based UI**  
   Write and structure your content with a modern, Notion-inspired block system.
-- **Cursor-Aware AI Integration**  
-  AI suggestions and actions adapt in real-time to your cursor position and context.
+- **Cursor-Like AI Integration**  
+  AI functionalities like Cursor to speed up your workflow tenfold.
 
 <p align="center">
   <img src="imgs/editor/demo.gif" alt="Notoria Editor" />
