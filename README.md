@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imgs/notoria.svg" width="64" height="64" alt="Notoria Icon" />
+  <img src="imgs/notoria.svg" width="256" height="256" alt="Notoria Icon" />
 </p>
 
 # Notoria
